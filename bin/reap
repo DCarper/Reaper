@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require 'slop'
+
+opts = Slop.parse do
+  on :v, :verbose, 'Enable verbose mode'           # boolean value
+  on :i, :images, 'Remove standard images'
+end
+
+puts "testing the build"
