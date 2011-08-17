@@ -9,9 +9,7 @@ $ reap --images
 
 Future
 ----
-* support removal of javascript and css/sass files
-* allow directories and filetypes to be manually specified
-* baked in git branching support
+* support manual specification of directories and filetypes
 * support for concatenated filenames
 
 Contributing to Reaper
