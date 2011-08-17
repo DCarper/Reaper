@@ -1,11 +1,11 @@
-curb
+Reaper
 ====
 
 A tool to remove unused static assets from a project. Only image removal is supported for now, stylesheets and javascripts at some point in the future.
 
 Usage
 -----
-rake curb:images
+$ reap --images
 
 future
 ----
@@ -14,7 +14,7 @@ future
 * baked in git branching support
 * support for marking certain files as risky if a partial filename is matched -- IE the the filename of the image is being concatenated from several seperate strings
 
-Contributing to curb
+Contributing to Reaper
 --------------------
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
