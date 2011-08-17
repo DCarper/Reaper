@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["dcarper@dreamagile.com"]
   s.homepage    = ""
   s.summary     = "Removes files that are not referenced in other text files"
-  s.description = "Only images are handled for now"
+  s.description = "Only images are handled for now. Totally not that battle heardened"
 
   s.rubyforge_project = "reaper"
 
