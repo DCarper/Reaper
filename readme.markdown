@@ -7,12 +7,12 @@ Usage
 -----
 $ reap --images
 
-future
+Future
 ----
 * support removal of javascript and css/sass files
 * allow directories and filetypes to be manually specified
 * baked in git branching support
-* support for marking certain files as risky if a partial filename is matched -- IE the the filename of the image is being concatenated from several seperate strings
+* support for concatenated filenames
 
 Contributing to Reaper
 --------------------
