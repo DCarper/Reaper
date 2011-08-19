@@ -2,5 +2,10 @@ source "http://rubygems.org"
 
 gem 'slop'
 
-# Specify your gem's dependencies in reaper.gemspec
+group :test do
+	gem 'mocha'
+	gem 'rspec'
+end
+
+#Specify your gem's dependencies in reaper.gemspec
 gemspec
