@@ -4,7 +4,7 @@ gem 'slop'
 
 group :test do
 	gem 'mocha'
-	gem 'rspec'
+	gem 'cucumber'
 end
 
 #Specify your gem's dependencies in reaper.gemspec
